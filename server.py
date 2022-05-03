@@ -20,7 +20,7 @@ def submit_form():
             write_to_csv(data)
             return redirect('/thankyou.html')
         else:
-            'could not save the data in the database'
+            return 'could not save the data in the database'
     else:
         return 'something wrong!'
 
