@@ -1,2 +1,2 @@
 # portfo
-In this project we use Flask + Python and an HTML template to build a portfolio website
+In this project we use Flask + Python and n HTML template to build a portfolio website
